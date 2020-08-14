@@ -1,0 +1,2 @@
+# testcahul
+lectia 30
